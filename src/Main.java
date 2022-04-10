@@ -13,32 +13,6 @@ import java.util.NoSuchElementException;
 
 public class Main {
 
-    //validar que el nombre del fichero no se encuentre previamente creado .txt, sino,
-    // mencionarle y darle la opci[on de sobreescribirlo(eliminar y crear nuevo) o
-    // de cambiarle el nombre
-    //Los archivos .txt se crea en una carpeta llamada Calculos, se crea desde el c[odigo, se encuentra en la ra[iz del programa
-    //arriba de src
-    //dentro de esa carpeta se van a ir formando subcarpetas por d[ia
-    //ir validando el d[ia Carpetas con nombre 2022-04-04
-
-    //Circulo
-    //radio: 12 cm
-    //perimetro: 10 cm
-
-    //l[ogica para crear el archivo
-    //hilo mientras se valida el nombre  de la carpeta y escribir en el archivo
-    // mostrar men[u principal de manera as[incrona
-    // l
-    //segunda parte
-    //imprimir en una lista el nombre de las carpetas
-    //al seleccionar carpeta mostrar otra ventana con lista de archivos
-    //escribir los archivos que se quieran abrir separados por comas, los va a abrir
-    // cada apertura lo har[a en un hilo diferente  for each?r
-
-    //enumerables
-    //Para concataenar = StringBuilder y StringFormat
-    //
-
    public static void main(String[] args) {
        //Menú principal
        StringBuilder sop = new StringBuilder(Mensajes.INGRESO_OPCION_MENU);
