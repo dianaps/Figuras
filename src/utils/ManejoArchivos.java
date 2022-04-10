@@ -2,7 +2,6 @@ package utils;
 
 import constants.Mensajes;
 import constants.Rutas;
-import hilos.HiloEscribir;
 import hilos.HiloLeer;
 
 import javax.swing.*;
