@@ -1,0 +1,4 @@
+Cuadrado
+Lado: 5.0 cm
+Área: 25.0 cm
+Perímetro: 20.0 cm

@@ -1,0 +1,4 @@
+Circulo
+Radio: 25.0 cm
+Área: 1963.4954084936207 cm
+Perímetro: 157.07963267948966 cm
